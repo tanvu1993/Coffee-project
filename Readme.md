@@ -3,9 +3,9 @@
 ---
 
 ## **1. Introduction**  
-Vietnam is one of the leading coffee producers globally, and Neumann Kaffee Gruppe plays a crucial role in its coffee supply chain. This analysis aims to explore key challenges affecting coffee cultivation, including land problems, soil fertility, and the adoption of sustainable agricultural practices.  
+Vietnam is one of the leading coffee producers globally, and Atlantic Commodities Vietnam Ltd plays a crucial role in its coffee supply chain. This analysis aims to explore key challenges affecting coffee cultivation, including land problems, soil fertility, and the adoption of sustainable agricultural practices.  
 
-Leveraging data-driven insights, this report provides actionable recommendations to improve coffee farming efficiency and sustainability.  
+Leveraging data-driven insights, this report provides actionable recommendations to improve coffee farming sustainability.  
 
 ---
 
